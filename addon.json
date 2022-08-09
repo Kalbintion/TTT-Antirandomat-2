@@ -1,0 +1,8 @@
+{
+	"title":	"[TTT|2] Antirandomat 2.0",
+	"type":		"weapon",
+	"tags":		["fun"],
+	"ignore": [
+		"*.bat"
+	]
+}
